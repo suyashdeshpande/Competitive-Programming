@@ -22,6 +22,7 @@ void buildSeive() {
             }
         }
     }
+}
     
 // check if n is prime
 bool isPrime(int n) { 
