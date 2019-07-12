@@ -1,5 +1,5 @@
 // Approach
-// Below steps for every ith bit, i = 31 to 1
+// Below steps for every ith bit, i = 31 to 0
 // Iterate over the array and find all l length segments having ith bit 0
 // From a l length segment fi = (l*(l+1))/2 subarrays are possible all having ith bit as 0
 // Subarrays in which all elements have ith bit as 0 = sum all all possible subarrays discussed above
